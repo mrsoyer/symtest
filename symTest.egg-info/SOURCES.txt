@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+sym/SYM.py
+sym/__init__.py
+sym/cli.py
+sym/install.py
+sym/main.py
+symTest.egg-info/PKG-INFO
+symTest.egg-info/SOURCES.txt
+symTest.egg-info/dependency_links.txt
+symTest.egg-info/top_level.txt

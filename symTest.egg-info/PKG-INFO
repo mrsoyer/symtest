@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: symTest
+Version: 0.0.1
+Summary: Scrap Yo Mama
+Home-page: https://github.com/mrsoyer/symtest
+Author: Thomas Garcia
+Author-email: garciathomas@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: GNU General Public License v3.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# symtest
